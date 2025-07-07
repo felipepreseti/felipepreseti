@@ -56,20 +56,14 @@ App for real-time, AI-personalised venue & experience recommendations.
 </p>
 
 ## Tech Stack
-![TypeScript](https://img.shields.io/badge/TypeScript-4c3573?style=flat&logo=typescript&logoColor=ffffff)
-![Next.js](https://img.shields.io/badge/Next.js-31264d?style=flat&logo=next.js&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/Node.js-493969?style=flat&logo=node.js&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-4c3573?style=flat&logo=typescript&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-493969?style=flat&logo=node.js&logoColor=fff)
 ![React](https://img.shields.io/badge/React-4c3573?style=flat&logo=react&logoColor=61dafb)
-![Tailwind](https://img.shields.io/badge/Tailwind-31264d?style=flat&logo=tailwindcss&logoColor=ffffff)
-![Expo](https://img.shields.io/badge/Expo-493969?style=flat&logo=expo&logoColor=ffffff)
-![Flutter](https://img.shields.io/badge/Flutter-4c3573?style=flat&logo=flutter&logoColor=ffffff)
-![GraphQL](https://img.shields.io/badge/GraphQL-31264d?style=flat&logo=graphql&logoColor=ffffff)
-![Prisma](https://img.shields.io/badge/Prisma-493969?style=flat&logo=prisma&logoColor=ffffff)
-![Supabase](https://img.shields.io/badge/Supabase-4c3573?style=flat&logo=supabase&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31264d?style=flat&logo=postgresql&logoColor=ffffff)
-![Firebase](https://img.shields.io/badge/Firebase-493969?style=flat&logo=firebase&logoColor=ffa611)
-![Docker](https://img.shields.io/badge/Docker-4c3573?style=flat&logo=docker&logoColor=ffffff)
-![Python](https://img.shields.io/badge/Python-31264d?style=flat&logo=python&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/Next.js-31264d?style=flat&logo=next.js&logoColor=fff)
+![Tailwind](https://img.shields.io/badge/Tailwind-31264d?style=flat&logo=tailwindcss&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-4c3573?style=flat&logo=docker&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31264d?style=flat&logo=postgresql&logoColor=fff)
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0d1117,0d1117" />
 
