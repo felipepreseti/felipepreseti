@@ -1,104 +1,103 @@
-<!-- README.md — Felipe Preseti | Preseti Group -->
+<!-- ████████████████████████████████████████████████ -->
+<!-- CYBER-NEON PROFILE  |  Felipe Preseti / Preseti Group -->
+<!-- paste into felipepreseti/README.md               -->
+<!-- ████████████████████████████████████████████████ -->
 
-<!-- ===================================================== -->
-<!--  HERO BANNER COM GRADIENTE E ONDA (Capsule Render)    -->
-<!--  Troque as cores em color= e height se quiser         -->
-<!-- ===================================================== -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=230&section=header&text=Felipe%20Preseti&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Founder%20%26%20CEO%20%E2%80%94%20Preseti%20Group&descAlignY=60&animation=twinkling"
-/>
-
-<!-- ===================================================== -->
-<!--  FRASE “TYPING” ANIMADA                               -->
-<!--  Ajuste texto ou remova se preferir algo estático      -->
-<!-- ===================================================== -->
+<!-- TOP GLITCH HEADING (animated SVG, no images to host) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&pause=1200&width=380&height=40&lines=We+turn+pain+points+into+products;Scaling+across+LATAM+%26+beyond" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&repeat=1&duration=6000&width=700&height=120&lines=%F0%9F%92%A5+FELIPE+PRESETI;+Founder+%7C+Preseti+Group%F0%9F%92%A5" alt="Felipe Preseti banner">
 </p>
 
-<!-- Botões sociais em estilo badge neon                  -->
-<div align="center">
+<!-- PULSING GRID BACKDROP -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+<!-- SOCIAL NEON BADGES -->
+<p align="center">
   <a href="https://preseti.com">
-    <img src="https://img.shields.io/badge/preseti.com-ff00cc?style=for-the-badge&logo=internet-archive&logoColor=white">
+    <img src="https://img.shields.io/badge/PRESE​TI.COM-%23ff007f.svg?style=for-the-badge&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/felipepreseti">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LINKEDIN-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:felipe@preseti.com">
-    <img src="https://img.shields.io/badge/felipe@preseti.com-ff4d4d?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/EMAIL-%23ff4d4d.svg?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</div>
+</p>
 
-<!-- Divisor em gradiente (usa o mesmo Capsule Render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=333399,ff00cc&height=120&section=footer"/>
+<!-- WAVY DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:ff007f,100:4000ff&section=header">
 
-## 🚀 Ventures
-
+## 🚀 VENTURES
 <details>
-<summary><b>Preseti Group</b> — Holding &amp; Governance ⭐</summary>
-Strategy, capital allocation and cross-venture synergy for every company listed below.
+<summary><code>Preseti Group | Holding & Governance ⭐</code></summary>
+Strategy, capital and synergy for the entire fleet.
 </details>
 
 <details>
-<summary><b>HowHow</b> — Influencer-Marketing Platform (LATAM)</summary>
-Connects tech brands and creators; algoritmos medem ROI end-to-end.
+<summary><code>HowHow | Influencer-Marketing (LATAM)</code></summary>
+AI matching tech brands ↔ creators.  
+Site → https://howhow.com.br
 </details>
 
 <details>
-<summary><b>Lumeg Energy</b> — Renewable Energy Subscriptions (BR)</summary>
-Otimiza consumo, reduz custos e amplia o acesso à energia solar no Brasil.
+<summary><code>Lumeg Energy | Solar Subscriptions (BR)</code></summary>
+AI-optimised clean power at scale.  
+Site → https://lumeg.com.br
 </details>
 
 <details>
-<summary><b>Suprema.gg</b> — Esports Ecosystem &amp; Marketplace</summary>
-Gestão de ligas, matchmaking e trading de itens em um único hub competitivo.
+<summary><code>Suprema.gg | Esports Hub</code></summary>
+Leagues, matchmaking, item trading.  
+Site → https://suprema.gg
 </details>
 
 <details>
-<summary><b>NexNex</b> — Digital Solutions Hub</summary>
-Sites, tráfego pago e design — automação total com múltiplas IAs (beta).
+<summary><code>NexNex | Digital Solutions</code></summary>
+Web, ads, design → fully automated with multi-AI stack.  
+Site → https://nexnex.com.br
 </details>
 
 <details>
-<summary><b>OpenCase</b> — Refurb-Tech Marketplace <i>(coming&nbsp;soon)</i></summary>
-IA para inspeção, reparo e precificação de produtos RMA, com descontos agressivos.
+<summary><code>OpenCase | Refurb-Tech Marketplace (soon)</code></summary>
+AI inspection • repair • flash discounts.
 </details>
 
 <details>
-<summary><b>Project Mirage</b> — Venue Discovery App <i>(stealth)</i></summary>
-Recomenda lugares e experiências personalizadas em tempo real.
+<summary><code>Project Mirage | Venue Discovery (stealth)</code></summary>
+Hyper-personal recommendations in real time.
 </details>
 
-<!-- Divisor em gradiente -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff00cc,333399&height=120&section=footer"/>
+<!-- RAINBOW BAR -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=ff007f,4000ff">
 
-## 🛠 Tech Toolbox
-![TypeScript](https://img.shields.io/badge/TypeScript-ff00cc?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-333399?style=flat&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-47c314?style=flat&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+## 🛠 TOOLBOX
+![TypeScript](https://img.shields.io/badge/TypeScript-ff007f?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-4000ff?style=flat&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-02b300?style=flat&logo=node.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06b6d4?style=flat&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-4169e1?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-111111?style=flat&logo=amazonaws)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase)
 
-<!-- Divisor em gradiente -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=333399,ff00cc&height=120&section=footer"/>
+<!-- GLITCH TEXT BLOCKQUOTE -->
+<blockquote align="center"><i>Great products solve pain so clearly that code is just the multiplier.</i></blockquote>
 
-## 📊 Impact Snapshot
+## 📊 SNAPSHOT
+| Metric | Value |
+| :--- | :--- |
+| Ventures | 6 active / upcoming |
+| Users | 350 000 + |
+| Revenue Growth | 50 % YoY |
+| Regions | BR • US • EU |
 
-| Metric | Today |
-| :-- | :-- |
-| Operating & upcoming ventures | **6** |
-| Users served across platforms | **350 k +** |
-| Average revenue growth YoY | **50 %** |
-| Key regions | 🇧🇷  🇺🇸  🇪🇺 |
+<!-- NEON HANDSHAKE CTA -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/10436845/236639995-2bc485a9-9086-4e68-9ab1-0fc2f9afe5d3.gif" width="200"><br>
+  <b>Building something bold?</b><br>
+  Contact → <a href="mailto:felipe@preseti.com">felipe@preseti.com</a>
+</p>
 
-> “Great products solve a pain so clearly that code becomes just the multiplier.”
-
-<!-- Divisor em gradiente -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff00cc,333399&height=120&section=footer"/>
-
-## 🤝 Let’s Collaborate
-
-Launching something bold in **clean tech, creator economy or re-commerce**?  
-I ship fast and scale globally — <a href="mailto:felipe@preseti.com">felipe@preseti.com</a>
+<!-- FINAL WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4000ff,ff007f&section=footer">
