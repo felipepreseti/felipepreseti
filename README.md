@@ -1,27 +1,37 @@
-<!-- ░░░░  F E L I P E   P R E S E T I   ░░░░ -->
+<!-- ░░░  F  E  L  I  P  E     P  R  E  S  E  T  I  ░░░ -->
 
-<!-- Raven banner (Unsplash). Substitua por outro GIF/PNG se preferir -->
+<!-- Raven ASCII banner (monospace). Ajuste largura ↔ com <pre> -->
+<pre align="center">
+        /\   /\
+       {  `---'  }
+       {  O   O  }
+       ~~>  V  <~~
+        \  \|/  /
+         `-----'____
+         /     \    \_
+        {       }\  )_\_   _
+        |  \_/  |/ /  \_\_/ )
+         \__/  /(_/     \__/ 
+           (__/
+</pre>
+
+<!-- Typing header (smoky grey) -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHJhdmVufGVufDB8fHx8MTY5OTA0NzI2NA&ixlib=rb-4.0.3&q=80&w=900" width="900" alt="Flying ravens" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=700&color=888888&center=true&vCenter=true&width=500&height=35&lines=FELIPE+PRESETI;Founder+%7C+Preseti+Group" />
 </p>
 
-<!-- Minimal typing header -->
+<!-- Activity graph in grey tones -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=700&color=AAAAAA&center=true&vCenter=true&width=460&height=35&lines=FELIPE+PRESETI;Founder+%7C+Preseti+Group" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipepreseti&bg_color=0d1117&color=666666&line=888888&area=true&hide_border=true" width="860" />
 </p>
 
-<!-- Activity graph (dark) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipepreseti&bg_color=0d1117&color=666666&line=999999&area=true&hide_border=true" width="860" />
-</p>
-
-<!-- Black wave divider -->
+<!-- Feather-style divider (solid black wave) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,100:0d1117" />
 
 <!-- Dark buttons -->
 <p align="center">
-  <a href="https://preseti.com"><img src="https://img.shields.io/badge/preseti.com-2d2d2d?style=for-the-badge&logo=homeassistant&logoColor=ffffff"></a>&nbsp;
-  <a href="https://linkedin.com/in/felipepreseti"><img src="https://img.shields.io/badge/linkedin-555555?style=for-the-badge&logo=linkedin&logoColor=ffffff"></a>&nbsp;
+  <a href="https://preseti.com"><img src="https://img.shields.io/badge/preseti.com-2d2d2d?style=for-the-badge"></a>&nbsp;
+  <a href="https://linkedin.com/in/felipepreseti"><img src="https://img.shields.io/badge/linkedin-434343?style=for-the-badge&logo=linkedin&logoColor=ffffff"></a>&nbsp;
   <a href="mailto:felipe@preseti.com"><img src="https://img.shields.io/badge/email-2d2d2d?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
 </p>
 
@@ -36,25 +46,25 @@ Drives strategy, capital allocation and cross-venture synergy.
 
 <details>
 <summary><code>HowHow │ Influencer-Marketing (LATAM)</code></summary>
-AI platform linking tech brands to ideal creators and tracking ROI.<br>
+AI platform matching tech brands to creators and tracking ROI.<br>
 https://howhow.com.br
 </details>
 
 <details>
 <summary><code>Lumeg Energy │ Solar Subscriptions (BR)</code></summary>
-Renewable power + AI optimisation to cut energy costs.<br>
+Renewable power with AI optimisation to cut energy costs.<br>
 https://lumeg.com.br
 </details>
 
 <details>
 <summary><code>Suprema.gg │ Esports Hub</code></summary>
-End-to-end ecosystem for leagues, matchmaking and item marketplace.<br>
+Ecosystem for leagues, matchmaking and item marketplace.<br>
 https://suprema.gg
 </details>
 
 <details>
 <summary><code>NexNex │ Digital Solutions</code></summary>
-One-stop SaaS automating websites, paid traffic and design via multi-AI stack.<br>
+SaaS automating sites, paid traffic and design via multi-AI stack.<br>
 https://nexnex.com.br
 </details>
 
@@ -65,7 +75,7 @@ AI inspection, repair and dynamic pricing of RMA tech with flash discounts.
 
 <details>
 <summary><code>Project Mirage │ Venue Discovery (soon)</code></summary>
-App for real-time, AI-personalised venue and experience recommendations.
+App for real-time, AI-personalised venue & experience recommendations.
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0d1117,0d1117" />
@@ -89,10 +99,10 @@ App for real-time, AI-personalised venue and experience recommendations.
 | Regions | BR • US • EU • CH |
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7qE6OcDtNMEF26xi/giphy.gif" width="160" alt="Raven animation"><br>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="140" alt="Corvo GIF"><br>
   <b>BUILDING SOMETHING BOLD?</b><br>
   Reach me → <a href="mailto:felipe@preseti.com">felipe@preseti.com</a>
 </p>
 
-<!-- Bottom black wave -->
+<!-- Bottom wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,100:0d1117&section=footer" />
