@@ -1,13 +1,4 @@
-<!-- ░░░░░░░░░░░░ P R E S E T I  C Y B E R  H E A D E R ░░░░░░░░░░░░ -->
-
-<pre align="center">
-███████╗███████╗██╗     ██╗██████╗ ███████╗
-██╔════╝██╔════╝██║     ██║██╔══██╗██╔════╝
-███████╗█████╗  ██║     ██║██████╔╝█████╗  
-╚════██║██╔══╝  ██║     ██║██╔══██╗██╔══╝  
-███████║███████╗███████╗██║██║  ██║███████╗
-╚══════╝╚══════╝╚══════╝╚═╝╚═╝  ╚══════╝
-</pre>
+<!-- ░░░░░ P R E S E T I  C Y B E R  H E A D E R ░░░░░ -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=600&height=40&lines=FELIPE+PRESETI;Founder+%7C+Preseti+Group" />
@@ -34,7 +25,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=FF00FF,00FFFF" />
 
 ## VENTURES
-
 <details><summary><code>Preseti Group │ Holding & Governance</code></summary>Strategy, capital and synergy for the entire fleet.</details>
 <details><summary><code>HowHow │ Influencer-Marketing (LATAM)</code></summary>AI links tech brands ↔ creators.<br>https://howhow.com.br</details>
 <details><summary><code>Lumeg Energy │ Solar Subscriptions (BR)</code></summary>Clean power optimised by data.<br>https://lumeg.com.br</details>
@@ -58,7 +48,7 @@
 
 ## SNAPSHOT
 | Metric | Value |
-| :— | :— |
+| :--- | :--- |
 | Ventures | 6 active / upcoming |
 | Revenue Growth | 2 500 % YoY |
 | Regions | BR • US • EU • CH |
