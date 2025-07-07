@@ -75,11 +75,11 @@ App for real-time, AI-personalised venue & experience recommendations.
 | Revenue Growth | 2 500 % YoY |
 | Regions | BR • US • EU • CH |
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0d1117,0d1117" />
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=felipepreseti&label=RAVENS%20VISITED&color=4c3573&style=for-the-badge" alt="visitor badge"/>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0d1117,0d1117" />
 
 <blockquote align="center"><i>Great products solve pain so clearly that code is just the multiplier.</i></blockquote>
 
