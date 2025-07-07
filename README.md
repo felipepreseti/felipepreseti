@@ -1,11 +1,11 @@
 <!-- ░░░  F  E  L  I  P  E     P  R  E  S  E  T  I  ░░░ -->
 
-<!-- Typing header -->
+<!-- Dynamic header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=600&color=888888&center=true&vCenter=true&width=520&height=35&lines=FELIPE+PRESETI;Founder+%7C+Preseti+Group" alt="typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=600&color=888888&center=true&vCenter=true&width=520&height=35&lines=FELIPE+PRESETI;Founder+%7C+Preseti+Group" />
 </p>
 
-<!-- Top black wave divider -->
+<!-- Feather-style black wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,100:0d1117" />
 
 <!-- Dark buttons -->
@@ -15,6 +15,7 @@
   <a href="mailto:felipe@preseti.com"><img src="https://img.shields.io/badge/email-2d2d2d?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
 </p>
 
+<!-- Slim black divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0d1117,0d1117" />
 
 ## VENTURES
@@ -32,19 +33,19 @@ https://howhow.com.br
 
 <details>
 <summary><code>Lumeg Energy │ Solar Subscriptions (BR)</code></summary>
-Renewable power with AI optimisation to cut energy costs.  
+Renewable power plus AI optimisation to cut energy costs.  
 https://lumeg.com.br
 </details>
 
 <details>
 <summary><code>Suprema.gg │ Esports Hub</code></summary>
-Ecosystem for leagues, matchmaking and item marketplace.  
+End-to-end ecosystem for leagues, matchmaking and item marketplace.  
 https://suprema.gg
 </details>
 
 <details>
 <summary><code>NexNex │ Digital Solutions</code></summary>
-SaaS automating sites, paid traffic and design via multi-AI stack.  
+SaaS automating sites, paid traffic and design with a multi-AI stack.  
 https://nexnex.com.br
 </details>
 
@@ -58,7 +59,12 @@ AI inspection, repair and dynamic pricing of RMA tech with flash discounts.
 App for real-time, AI-personalised venue and experience recommendations.
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0d1117,0d1117" />
+<!-- Feather divider in SVG (dark) -->
+<p align="center">
+  <svg width="260" height="18" viewBox="0 0 260 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 9Q60 0 130 9T260 9" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  </svg>
+</p>
 
 ## TOOLBOX
 ![TypeScript](https://img.shields.io/badge/TypeScript-444444?style=flat&logo=typescript&logoColor=ffffff)
@@ -72,16 +78,16 @@ App for real-time, AI-personalised venue and experience recommendations.
 <blockquote align="center"><i>Great products solve pain so clearly that code is just the multiplier.</i></blockquote>
 
 ## SNAPSHOT
-| Metric   | Value            |
-| :------- | :--------------- |
+| Metric | Value |
+| :----- | :---- |
 | Ventures | 6 active / upcoming |
 | Revenue Growth | 2 500 % YoY |
-| Regions  | BR • US • EU • CH |
+| Regions | BR • US • EU • CH |
 
+<!-- Final call without GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="140" alt="Raven GIF"><br>
-  <strong>BUILDING SOMETHING BOLD?</strong><br>
-  Reach me → <a href="mailto:felipe@preseti.com">felipe@preseti.com</a>
+  <strong>LET’S BUILD SOMETHING BOLD</strong><br>
+  <a href="mailto:felipe@preseti.com">felipe@preseti.com</a>
 </p>
 
 <!-- Bottom black wave -->
