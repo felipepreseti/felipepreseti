@@ -57,6 +57,8 @@ App for real-time, AI-personalised venue & experience recommendations.
 
 ## Tech Stack
 <!-- ——— Core web / API ——— -->
+## Tech Stack
+<!-- ——— Core web / API ——— -->
 ![TypeScript](https://img.shields.io/badge/TypeScript-4c3573?style=flat&logo=typescript&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-493969?style=flat&logo=node.js&logoColor=fff)
 ![React](https://img.shields.io/badge/React-4c3573?style=flat&logo=react&logoColor=61dafb)
@@ -82,13 +84,6 @@ App for real-time, AI-personalised venue & experience recommendations.
 <!-- ——— Testing / Docs ——— -->
 ![Jest](https://img.shields.io/badge/Jest-4c3573?style=flat&logo=jest&logoColor=fff)
 ![Storybook](https://img.shields.io/badge/Storybook-31264d?style=flat&logo=storybook&logoColor=fff)
-
-<!-- ——— Extras (descomente se usar) ——— -->
-<!-- ![Redis](https://img.shields.io/badge/Redis-493969?style=flat&logo=redis&logoColor=fff) -->
-<!-- ![Stripe](https://img.shields.io/badge/Stripe-4c3573?style=flat&logo=stripe&logoColor=fff) -->
-<!-- ![Bun](https://img.shields.io/badge/Bun-31264d?style=flat&logo=bun&logoColor=fff) -->
-<!-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-493969?style=flat&logo=kubernetes&logoColor=fff) -->
-
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0d1117,0d1117" />
