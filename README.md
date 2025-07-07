@@ -1,12 +1,12 @@
 <!-- ░░░  F  E  L  I  P  E     P  R  E  S  E  T  I  ░░░ -->
 
-<!-- Header dinâmico (roxo) -->
+<!-- Header roxo digitação -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=600&color=A259FF&center=true&vCenter=true&width=600&height=35&lines=FELIPE+PRESETI;Founder+%7C+Preseti+Group" />
 </p>
 
-<!-- Faixa nebulosa (preto → violeta profundo) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0d1117,2b1b47,0d1117" />
+<!-- Banner nebuloso (preto → violeta) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0d1117,3a1f69,0d1117" />
 
 <!-- Botões escuros -->
 <p align="center">
@@ -22,19 +22,19 @@
 Drives strategy, capital allocation and cross-venture synergy.
 </details>
 <details><summary><code>HowHow │ Influencer-Marketing (LATAM)</code></summary>
-AI platform matching tech brands to creators and tracking ROI.<br>https://howhow.com.br
+AI platform matching tech brands with creators and tracking ROI.<br>https://howhow.com.br
 </details>
 <details><summary><code>Lumeg Energy │ Solar Subscriptions (BR)</code></summary>
-Renewable power plus AI optimisation to slash energy costs.<br>https://lumeg.com.br
+Renewable power + AI optimisation to slash energy costs.<br>https://lumeg.com.br
 </details>
 <details><summary><code>Suprema.gg │ Esports Hub</code></summary>
-End-to-end ecosystem for leagues, matchmaking and item marketplace.<br>https://suprema.gg
+End-to-end ecosystem for leagues, matchmaking & item marketplace.<br>https://suprema.gg
 </details>
 <details><summary><code>NexNex │ Digital Solutions</code></summary>
 SaaS automating sites, paid traffic & design via multi-AI stack.<br>https://nexnex.com.br
 </details>
 <details><summary><code>OpenCase │ Refurb-Tech (soon)</code></summary>
-AI inspection, repair and dynamic pricing of RMA tech with flash discounts.
+AI inspection, repair & dynamic pricing of RMA tech with flash discounts.
 </details>
 <details><summary><code>Project Mirage │ Venue Discovery (soon)</code></summary>
 App for real-time, AI-personalised venue & experience recommendations.
@@ -54,10 +54,10 @@ App for real-time, AI-personalised venue & experience recommendations.
 ![React](https://img.shields.io/badge/React-4c3573?style=flat&logo=react&logoColor=61dafb)
 ![Tailwind](https://img.shields.io/badge/Tailwind-31264d?style=flat&logo=tailwindcss&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4c3573?style=flat&logo=postgresql&logoColor=ffffff)
-![AWS](https://img.shields.io/badge/AWS-1e1e1e?style=flat&logo=amazonaws&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/Firebase-493969?style=flat&logo=firebase&logoColor=ffa611)
 ![Docker](https://img.shields.io/badge/Docker-4c3573?style=flat&logo=docker&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/Python-31264d?style=flat&logo=python&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/AWS-1e1e1e?style=flat&logo=amazonaws&logoColor=ffffff)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0d1117,0d1117" />
 
@@ -66,7 +66,7 @@ App for real-time, AI-personalised venue & experience recommendations.
 | :----- | :---- |
 | Ventures | 6 active / upcoming |
 | Revenue Growth | 2 500 % YoY |
-| Ravens Visited | 5 |
+| Ravens Visited | <img src="https://komarev.com/ghpvc/?username=felipepreseti&label=RAVENS%20VISITED&color=4c3573&style=flat-square" alt="visitor count"/> |
 | Regions | BR • US • EU • CH |
 
 <blockquote align="center"><i>Great products solve pain so clearly that code is just the multiplier.</i></blockquote>
@@ -76,5 +76,5 @@ App for real-time, AI-personalised venue & experience recommendations.
   <a href="mailto:felipe@preseti.com">felipe@preseti.com</a>
 </p>
 
-<!-- Bottom wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,100:0d1117&section=footer" />
+<!-- Onda inferior invertida com gradiente -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0d1117,3a1f69,0d1117&section=footer" />
