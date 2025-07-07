@@ -1,22 +1,11 @@
 <!-- ░░░  F  E  L  I  P  E     P  R  E  S  E  T  I  ░░░ -->
 
-<!-- Raven ASCII banner -->
-<pre align="center" style="font-family:monospace;">
-            ___
-        ,-''___''-.
-      ,'  / . . \  `.
-     /    >  ^  <    \
-    /    (__\_/__)    \
-   /.-.-.  /   \  .-.-.\
-   `     `"`     `"`     `
-</pre>
-
 <!-- Typing header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=600&color=888888&center=true&vCenter=true&width=520&height=35&lines=FELIPE+PRESETI;Founder+%7C+Preseti+Group" alt="typing intro" />
 </p>
 
-<!-- Feather-style divider (black wave) -->
+<!-- Top black wave divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,100:0d1117" />
 
 <!-- Dark buttons -->
