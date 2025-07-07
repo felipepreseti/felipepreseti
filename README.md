@@ -1,14 +1,15 @@
 <!-- ░░░ P R E S E T I  •  C Y B E R  P R O F I L E ░░░ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=600&height=40&lines=FELIPE+PRESETI;Founder+%7C+Preseti+Group" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=620&height=40&lines=FELIPE+PRESETI;Founder+%7C+Preseti+Group" />
 </p>
 
+<!-- Neon contribution activity graph -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="900" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipepreseti&bg_color=0d1117&color=00ffff&line=ff00ff&area=true&hide_border=true" width="880" />
 </p>
 
-<!-- Onda preta (altura 100) -->
+<!-- Onda preta -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,100:0d1117" />
 
 <p align="center">
@@ -17,19 +18,49 @@
   <a href="mailto:felipe@preseti.com"><img src="https://img.shields.io/badge/EMAIL-00ffff?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
 </p>
 
-<!-- Faixa preta fina -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0d1117,0d1117" />
 
 ## VENTURES
-<details><summary><code>Preseti Group │ Holding & Governance</code></summary>Strategy, capital and synergy for the entire fleet.</details>
-<details><summary><code>HowHow │ Influencer-Marketing (LATAM)</code></summary>AI links tech brands ↔ creators.<br>https://howhow.com.br</details>
-<details><summary><code>Lumeg Energy │ Solar Subscriptions (BR)</code></summary>Clean power optimised by data.<br>https://lumeg.com.br</details>
-<details><summary><code>Suprema.gg │ Esports Hub</code></summary>Leagues, matchmaking, item trading.<br>https://suprema.gg</details>
-<details><summary><code>NexNex │ Digital Solutions</code></summary>Web, ads, design fully automated.<br>https://nexnex.com.br</details>
-<details><summary><code>OpenCase │ Refurb-Tech (soon)</code></summary>AI inspection, repair and flash deals.</details>
-<details><summary><code>Project Mirage │ Venue Discovery</code></summary>Real-time personalised recommendations.</details>
 
-<!-- Faixa preta fina -->
+<details>
+<summary><code>Preseti Group │ Holding & Governance</code></summary>
+Drives group strategy, capital allocation and cross-venture synergy.
+</details>
+
+<details>
+<summary><code>HowHow │ Influencer-Marketing (LATAM)</code></summary>
+AI platform that matches tech brands with the right creators and measures ROI end-to-end.  
+https://howhow.com.br
+</details>
+
+<details>
+<summary><code>Lumeg Energy │ Solar Subscriptions (BR)</code></summary>
+Delivers renewable power and AI-driven optimisation to slash energy costs.  
+https://lumeg.com.br
+</details>
+
+<details>
+<summary><code>Suprema.gg │ Esports Hub</code></summary>
+All-in-one ecosystem for leagues, matchmaking and an in-game item marketplace.  
+https://suprema.gg
+</details>
+
+<details>
+<summary><code>NexNex │ Digital Solutions</code></summary>
+One-stop SaaS that automates websites, paid traffic and design through a multi-AI stack.  
+https://nexnex.com.br
+</details>
+
+<details>
+<summary><code>OpenCase │ Refurb-Tech (soon)</code></summary>
+AI inspection, repair and dynamic pricing of RMA tech with flash discounts.
+</details>
+
+<details>
+<summary><code>Project Mirage │ Venue Discovery (soon)</code></summary>
+App for real-time, AI-personalised venue and experience recommendations.
+</details>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0d1117,0d1117" />
 
 ## TOOLBOX
@@ -56,5 +87,4 @@
   Reach me → <a href="mailto:felipe@preseti.com">felipe@preseti.com</a>
 </p>
 
-<!-- Onda preta final -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,100:0d1117&section=footer" />
