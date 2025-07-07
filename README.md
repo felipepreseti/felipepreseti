@@ -54,25 +54,31 @@ App for real-time, AI-personalised venue & experience recommendations.
 </p>
 
 ## Tech Stack
+
+**Web & UI**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-4c3573?style=flat&logo=typescript&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-493969?style=flat&logo=node.js&logoColor=fff)
 ![React](https://img.shields.io/badge/React-4c3573?style=flat&logo=react&logoColor=61dafb)
 ![Next.js](https://img.shields.io/badge/Next.js-31264d?style=flat&logo=next.js&logoColor=fff)
-![Tailwind](https://img.shields.io/badge/Tailwind-31264d?style=flat&logo=tailwindcss&logoColor=fff)  
+![Tailwind](https://img.shields.io/badge/Tailwind-31264d?style=flat&logo=tailwindcss&logoColor=fff)
 
+**Mobile**  
 ![Expo](https://img.shields.io/badge/Expo-493969?style=flat&logo=expo&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/Flutter-4c3573?style=flat&logo=flutter&logoColor=fff)
-![Dart](https://img.shields.io/badge/Dart-31264d?style=flat&logo=dart&logoColor=fff)  
+![Dart](https://img.shields.io/badge/Dart-31264d?style=flat&logo=dart&logoColor=fff)
 
+**Data & APIs**  
 ![GraphQL](https://img.shields.io/badge/GraphQL-31264d?style=flat&logo=graphql&logoColor=fff)
 ![Prisma](https://img.shields.io/badge/Prisma-493969?style=flat&logo=prisma&logoColor=fff)
 ![Supabase](https://img.shields.io/badge/Supabase-4c3573?style=flat&logo=supabase&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31264d?style=flat&logo=postgresql&logoColor=fff)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31264d?style=flat&logo=postgresql&logoColor=fff)
 
+**Cloud & DevOps**  
 ![Docker](https://img.shields.io/badge/Docker-4c3573?style=flat&logo=docker&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-31264d?style=flat&logo=githubactions&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Vercel-493969?style=flat&logo=vercel&logoColor=fff)  
+![Vercel](https://img.shields.io/badge/Vercel-493969?style=flat&logo=vercel&logoColor=fff)
 
+**Testing & Docs**  
 ![Jest](https://img.shields.io/badge/Jest-4c3573?style=flat&logo=jest&logoColor=fff)
 ![Storybook](https://img.shields.io/badge/Storybook-31264d?style=flat&logo=storybook&logoColor=fff)
 
