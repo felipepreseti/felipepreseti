@@ -69,18 +69,23 @@ App for real-time, AI-personalised venue & experience recommendations.
 
 **Data & APIs**  
 ![GraphQL](https://img.shields.io/badge/GraphQL-31264d?style=flat&logo=graphql&logoColor=fff)
-![Prisma](https://img.shields.io/badge/Prisma-493969?style=flat&logo=prisma&logoColor=fff)
-![Supabase](https://img.shields.io/badge/Supabase-4c3573?style=flat&logo=supabase&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31264d?style=flat&logo=postgresql&logoColor=fff)
+![tRPC](https://img.shields.io/badge/tRPC-493969?style=flat&logo=trpc&logoColor=fff)
+![Prisma](https://img.shields.io/badge/Prisma-4c3573?style=flat&logo=prisma&logoColor=fff)
+![Zod](https://img.shields.io/badge/Zod-31264d?style=flat&logo=zod&logoColor=fff)
+![Supabase](https://img.shields.io/badge/Supabase-493969?style=flat&logo=supabase&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4c3573?style=flat&logo=postgresql&logoColor=fff)
 
 **Cloud & DevOps**  
 ![Docker](https://img.shields.io/badge/Docker-4c3573?style=flat&logo=docker&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-31264d?style=flat&logo=githubactions&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Vercel-493969?style=flat&logo=vercel&logoColor=fff)
+![Turbo](https://img.shields.io/badge/Turbo-493969?style=flat&logo=turbo&logoColor=fff)
+![pnpm](https://img.shields.io/badge/pnpm-4c3573?style=flat&logo=pnpm&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-31264d?style=flat&logo=vercel&logoColor=fff)
 
 **Testing & Docs**  
 ![Jest](https://img.shields.io/badge/Jest-4c3573?style=flat&logo=jest&logoColor=fff)
-![Storybook](https://img.shields.io/badge/Storybook-31264d?style=flat&logo=storybook&logoColor=fff)
+![Cypress](https://img.shields.io/badge/Cypress-31264d?style=flat&logo=cypress&logoColor=fff)
+![Storybook](https://img.shields.io/badge/Storybook-493969?style=flat&logo=storybook&logoColor=fff)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0d1117,0d1117" />
 
