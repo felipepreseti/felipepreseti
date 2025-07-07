@@ -1,4 +1,4 @@
-<!-- ░░░░░ P R E S E T I  C Y B E R  H E A D E R ░░░░░ -->
+<!-- ░░░ P R E S E T I  •  C Y B E R  P R O F I L E ░░░ -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=600&height=40&lines=FELIPE+PRESETI;Founder+%7C+Preseti+Group" />
@@ -8,21 +8,17 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="900" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00FFFF,50:FF00FF,100:00FFFF" />
+<!-- Onda preta (altura 100) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,100:0d1117" />
 
 <p align="center">
-  <a href="https://preseti.com">
-    <img src="https://img.shields.io/badge/PRESE​TI.COM-00ffff?style=for-the-badge&labelColor=ff00ff" />
-  </a>&nbsp;
-  <a href="https://linkedin.com/in/felipepreseti">
-    <img src="https://img.shields.io/badge/LINKEDIN-ff00ff?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
-  </a>&nbsp;
-  <a href="mailto:felipe@preseti.com">
-    <img src="https://img.shields.io/badge/EMAIL-00ffff?style=for-the-badge&logo=gmail&logoColor=ffffff" />
-  </a>
+  <a href="https://preseti.com"><img src="https://img.shields.io/badge/PRESE​TI.COM-00ffff?style=for-the-badge&labelColor=ff00ff"></a>&nbsp;
+  <a href="https://linkedin.com/in/felipepreseti"><img src="https://img.shields.io/badge/LINKEDIN-ff00ff?style=for-the-badge&logo=linkedin&logoColor=ffffff"></a>&nbsp;
+  <a href="mailto:felipe@preseti.com"><img src="https://img.shields.io/badge/EMAIL-00ffff?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=FF00FF,00FFFF" />
+<!-- Faixa preta fina -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0d1117,0d1117" />
 
 ## VENTURES
 <details><summary><code>Preseti Group │ Holding & Governance</code></summary>Strategy, capital and synergy for the entire fleet.</details>
@@ -33,25 +29,26 @@
 <details><summary><code>OpenCase │ Refurb-Tech (soon)</code></summary>AI inspection, repair and flash deals.</details>
 <details><summary><code>Project Mirage │ Venue Discovery</code></summary>Real-time personalised recommendations.</details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=00FFFF,FF00FF" />
+<!-- Faixa preta fina -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0d1117,0d1117" />
 
 ## TOOLBOX
-![TS](https://img.shields.io/badge/TypeScript-ff00ff?style=flat&logo=typescript&logoColor=white)
-![Next](https://img.shields.io/badge/Next.js-00ffff?style=flat&logo=next.js)
-![Node](https://img.shields.io/badge/Node.js-02b300?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-ff00ff?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-00ffff?style=flat&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-02b300?style=flat&logo=node.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06b6d4?style=flat&logo=tailwindcss&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-111111?style=flat&logo=amazonaws)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase)
 
 <blockquote align="center"><i>Great products solve pain so clearly that code is just the multiplier.</i></blockquote>
 
 ## SNAPSHOT
-| Metric | Value |
-| :--- | :--- |
+| Metric   | Value            |
+| :------- | :--------------- |
 | Ventures | 6 active / upcoming |
 | Revenue Growth | 2 500 % YoY |
-| Regions | BR • US • EU • CH |
+| Regions  | BR • US • EU • CH |
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTI0YjRhMGU1ZDdlZTJlZjQyN2VmZjc3YTFiY2RlNDk3MzQwZTQ2OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M9khAdSOyM2JO/giphy.gif" width="160"><br>
@@ -59,4 +56,5 @@
   Reach me → <a href="mailto:felipe@preseti.com">felipe@preseti.com</a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00FFFF,FF00FF&section=footer" />
+<!-- Onda preta final -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,100:0d1117&section=footer" />
