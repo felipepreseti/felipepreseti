@@ -16,8 +16,9 @@
 
 ## VENTURES
 <details>
-<summary><code><a href="https://preseti.com">Preseti Group</a> │ Holding & Governance</code></summary>
+<summary><code>Preseti Group │ Holding & Governance</code></summary>
 Drives strategy, capital allocation and cross-venture synergy.
+https://preseti.com
 </details>
 <details>
 <summary><code>Howhow │ Influencer-Marketing</code></summary>
