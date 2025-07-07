@@ -56,13 +56,39 @@ App for real-time, AI-personalised venue & experience recommendations.
 </p>
 
 ## Tech Stack
+<!-- ——— Core web / API ——— -->
 ![TypeScript](https://img.shields.io/badge/TypeScript-4c3573?style=flat&logo=typescript&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-493969?style=flat&logo=node.js&logoColor=fff)
 ![React](https://img.shields.io/badge/React-4c3573?style=flat&logo=react&logoColor=61dafb)
 ![Next.js](https://img.shields.io/badge/Next.js-31264d?style=flat&logo=next.js&logoColor=fff)
 ![Tailwind](https://img.shields.io/badge/Tailwind-31264d?style=flat&logo=tailwindcss&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-4c3573?style=flat&logo=docker&logoColor=fff)
+
+<!-- ——— Mobile / Cross-platform ——— -->
+![Expo](https://img.shields.io/badge/Expo-493969?style=flat&logo=expo&logoColor=fff)
+![Flutter](https://img.shields.io/badge/Flutter-4c3573?style=flat&logo=flutter&logoColor=fff)
+![Dart](https://img.shields.io/badge/Dart-31264d?style=flat&logo=dart&logoColor=fff)
+
+<!-- ——— Data / ORM / API Layer ——— -->
+![GraphQL](https://img.shields.io/badge/GraphQL-31264d?style=flat&logo=graphql&logoColor=fff)
+![Prisma](https://img.shields.io/badge/Prisma-493969?style=flat&logo=prisma&logoColor=fff)
+![Supabase](https://img.shields.io/badge/Supabase-4c3573?style=flat&logo=supabase&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31264d?style=flat&logo=postgresql&logoColor=fff)
+
+<!-- ——— Cloud / DevOps ——— -->
+![Docker](https://img.shields.io/badge/Docker-4c3573?style=flat&logo=docker&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub Actions-31264d?style=flat&logo=githubactions&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-493969?style=flat&logo=vercel&logoColor=fff)
+
+<!-- ——— Testing / Docs ——— -->
+![Jest](https://img.shields.io/badge/Jest-4c3573?style=flat&logo=jest&logoColor=fff)
+![Storybook](https://img.shields.io/badge/Storybook-31264d?style=flat&logo=storybook&logoColor=fff)
+
+<!-- ——— Extras (descomente se usar) ——— -->
+<!-- ![Redis](https://img.shields.io/badge/Redis-493969?style=flat&logo=redis&logoColor=fff) -->
+<!-- ![Stripe](https://img.shields.io/badge/Stripe-4c3573?style=flat&logo=stripe&logoColor=fff) -->
+<!-- ![Bun](https://img.shields.io/badge/Bun-31264d?style=flat&logo=bun&logoColor=fff) -->
+<!-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-493969?style=flat&logo=kubernetes&logoColor=fff) -->
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0d1117,0d1117" />
