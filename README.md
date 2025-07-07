@@ -1,31 +1,22 @@
 <!-- ░░░  F  E  L  I  P  E     P  R  E  S  E  T  I  ░░░ -->
 
-<!-- Raven ASCII banner (monospace). Ajuste largura ↔ com <pre> -->
-<pre align="center">
-        /\   /\
-       {  `---'  }
-       {  O   O  }
-       ~~>  V  <~~
-        \  \|/  /
-         `-----'____
-         /     \    \_
-        {       }\  )_\_   _
-        |  \_/  |/ /  \_\_/ )
-         \__/  /(_/     \__/ 
-           (__/
+<!-- Raven ASCII banner -->
+<pre align="center" style="font-family:monospace;">
+            ___
+        ,-''___''-.
+      ,'  / . . \  `.
+     /    >  ^  <    \
+    /    (__\_/__)    \
+   /.-.-.  /   \  .-.-.\
+   `     `"`     `"`     `
 </pre>
 
-<!-- Typing header (smoky grey) -->
+<!-- Typing header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=700&color=888888&center=true&vCenter=true&width=500&height=35&lines=FELIPE+PRESETI;Founder+%7C+Preseti+Group" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=600&color=888888&center=true&vCenter=true&width=520&height=35&lines=FELIPE+PRESETI;Founder+%7C+Preseti+Group" alt="typing intro" />
 </p>
 
-<!-- Activity graph in grey tones -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipepreseti&bg_color=0d1117&color=666666&line=888888&area=true&hide_border=true" width="860" />
-</p>
-
-<!-- Feather-style divider (solid black wave) -->
+<!-- Feather-style divider (black wave) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,100:0d1117" />
 
 <!-- Dark buttons -->
@@ -46,25 +37,25 @@ Drives strategy, capital allocation and cross-venture synergy.
 
 <details>
 <summary><code>HowHow │ Influencer-Marketing (LATAM)</code></summary>
-AI platform matching tech brands to creators and tracking ROI.<br>
+AI platform matching tech brands to creators and tracking ROI.  
 https://howhow.com.br
 </details>
 
 <details>
 <summary><code>Lumeg Energy │ Solar Subscriptions (BR)</code></summary>
-Renewable power with AI optimisation to cut energy costs.<br>
+Renewable power with AI optimisation to cut energy costs.  
 https://lumeg.com.br
 </details>
 
 <details>
 <summary><code>Suprema.gg │ Esports Hub</code></summary>
-Ecosystem for leagues, matchmaking and item marketplace.<br>
+Ecosystem for leagues, matchmaking and item marketplace.  
 https://suprema.gg
 </details>
 
 <details>
 <summary><code>NexNex │ Digital Solutions</code></summary>
-SaaS automating sites, paid traffic and design via multi-AI stack.<br>
+SaaS automating sites, paid traffic and design via multi-AI stack.  
 https://nexnex.com.br
 </details>
 
@@ -75,7 +66,7 @@ AI inspection, repair and dynamic pricing of RMA tech with flash discounts.
 
 <details>
 <summary><code>Project Mirage │ Venue Discovery (soon)</code></summary>
-App for real-time, AI-personalised venue & experience recommendations.
+App for real-time, AI-personalised venue and experience recommendations.
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0d1117,0d1117" />
@@ -92,17 +83,17 @@ App for real-time, AI-personalised venue & experience recommendations.
 <blockquote align="center"><i>Great products solve pain so clearly that code is just the multiplier.</i></blockquote>
 
 ## SNAPSHOT
-| Metric | Value |
-| :----- | :---- |
+| Metric   | Value            |
+| :------- | :--------------- |
 | Ventures | 6 active / upcoming |
 | Revenue Growth | 2 500 % YoY |
-| Regions | BR • US • EU • CH |
+| Regions  | BR • US • EU • CH |
 
 <p align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="140" alt="Corvo GIF"><br>
-  <b>BUILDING SOMETHING BOLD?</b><br>
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="140" alt="Raven GIF"><br>
+  <strong>BUILDING SOMETHING BOLD?</strong><br>
   Reach me → <a href="mailto:felipe@preseti.com">felipe@preseti.com</a>
 </p>
 
-<!-- Bottom wave -->
+<!-- Bottom black wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,100:0d1117&section=footer" />
