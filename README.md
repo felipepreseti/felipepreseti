@@ -15,25 +15,36 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0d1117,0d1117" />
 
 ## VENTURES
-<details><summary><code>Preseti Group │ Holding & Governance</code></summary>
+<details>
+<summary><code><a href="https://preseti.com">Preseti Group</a> │ Holding & Governance</code></summary>
 Drives strategy, capital allocation and cross-venture synergy.
 </details>
-<details><summary><code>Howhow │ Influencer-Marketing</code></summary>
-AI platform linking tech brands to creators and tracking ROI.<br>https://howhow.com.br
+<details>
+<summary><code>Howhow │ Influencer-Marketing</code></summary>
+AI platform linking tech brands to creators and tracking ROI.  
+https://howhow.com.br
 </details>
-<details><summary><code>Lumeg │ Solar Subscriptions</code></summary>
-Renewable power plus AI optimisation to slash energy costs.<br>https://lumeg.com.br
+<details>
+<summary><code>Lumeg │ Solar Subscriptions</code></summary>
+Renewable power plus AI optimisation to slash energy costs.  
+https://lumeg.com.br
 </details>
-<details><summary><code>Suprema.gg │ Esports Hub</code></summary>
-Complete ecosystem for leagues, matchmaking and item marketplace.<br>https://suprema.gg
+<details>
+<summary><code>Suprema.gg │ Esports Hub</code></summary>
+Complete ecosystem for leagues, matchmaking and item marketplace.  
+https://suprema.gg
 </details>
-<details><summary><code>Nexnex │ Digital Solutions</code></summary>
-SaaS automating sites, paid traffic & design via multi-AI stack.<br>https://nexnex.com.br
+<details>
+<summary><code>Nexnex │ Digital Solutions</code></summary>
+SaaS automating sites, paid traffic & design via multi-AI stack.  
+https://nexnex.com.br
 </details>
-<details><summary><code>OpenCase │ Refurb-Tech (soon)</code></summary>
+<details>
+<summary><code>OpenCase │ Refurb-Tech (soon)</code></summary>
 AI inspection, repair and dynamic pricing of RMA tech with flash discounts.
 </details>
-<details><summary><code>Project Mirage │ Venue Discovery (soon)</code></summary>
+<details>
+<summary><code>Project Mirage │ Venue Discovery (soon)</code></summary>
 App for real-time, AI-personalised venue & experience recommendations.
 </details>
 
