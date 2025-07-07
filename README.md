@@ -1,67 +1,53 @@
 <!-- ░░░  F  E  L  I  P  E     P  R  E  S  E  T  I  ░░░ -->
 
-<!-- Typing header -->
+<!-- Header dinâmico (roxo) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=600&color=A259FF&center=true&vCenter=true&width=520&height=35&lines=FELIPE+PRESETI;Founder+%7C+Preseti+Group" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=600&color=A259FF&center=true&vCenter=true&width=600&height=35&lines=FELIPE+PRESETI;Founder+%7C+Preseti+Group" />
 </p>
 
-<!-- Shadow-nebula banner (black → deep-violet) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0d1117,1e0e2f,0d1117" />
+<!-- Faixa nebulosa (preto → violeta profundo) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0d1117,2b1b47,0d1117" />
 
-<!-- Dark buttons -->
+<!-- Botões escuros -->
 <p align="center">
   <a href="https://preseti.com"><img src="https://img.shields.io/badge/preseti.com-1e1e1e?style=for-the-badge"></a>&nbsp;
   <a href="https://linkedin.com/in/felipepreseti"><img src="https://img.shields.io/badge/linkedin-3b2f5e?style=for-the-badge&logo=linkedin&logoColor=ffffff"></a>&nbsp;
   <a href="mailto:felipe@preseti.com"><img src="https://img.shields.io/badge/email-1e1e1e?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
 </p>
 
-<!-- Slim divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0d1117,0d1117" />
 
 ## VENTURES
-
-<details>
-<summary><code>Preseti Group │ Holding & Governance</code></summary>
+<details><summary><code>Preseti Group │ Holding & Governance</code></summary>
 Drives strategy, capital allocation and cross-venture synergy.
 </details>
-
-<details>
-<summary><code>HowHow │ Influencer-Marketing (LATAM)</code></summary>
-AI platform matching tech brands to creators and tracking ROI.<br>
-https://howhow.com.br
+<details><summary><code>HowHow │ Influencer-Marketing (LATAM)</code></summary>
+AI platform matching tech brands to creators and tracking ROI.<br>https://howhow.com.br
 </details>
-
-<details>
-<summary><code>Lumeg Energy │ Solar Subscriptions (BR)</code></summary>
-Renewable power plus AI optimisation to slash energy costs.<br>
-https://lumeg.com.br
+<details><summary><code>Lumeg Energy │ Solar Subscriptions (BR)</code></summary>
+Renewable power plus AI optimisation to slash energy costs.<br>https://lumeg.com.br
 </details>
-
-<details>
-<summary><code>Suprema.gg │ Esports Hub</code></summary>
-End-to-end ecosystem for leagues, matchmaking and item marketplace.<br>
-https://suprema.gg
+<details><summary><code>Suprema.gg │ Esports Hub</code></summary>
+End-to-end ecosystem for leagues, matchmaking and item marketplace.<br>https://suprema.gg
 </details>
-
-<details>
-<summary><code>NexNex │ Digital Solutions</code></summary>
-SaaS automating sites, paid traffic & design via multi-AI stack.<br>
-https://nexnex.com.br
+<details><summary><code>NexNex │ Digital Solutions</code></summary>
+SaaS automating sites, paid traffic & design via multi-AI stack.<br>https://nexnex.com.br
 </details>
-
-<details>
-<summary><code>OpenCase │ Refurb-Tech (soon)</code></summary>
+<details><summary><code>OpenCase │ Refurb-Tech (soon)</code></summary>
 AI inspection, repair and dynamic pricing of RMA tech with flash discounts.
 </details>
-
-<details>
-<summary><code>Project Mirage │ Venue Discovery (soon)</code></summary>
+<details><summary><code>Project Mirage │ Venue Discovery (soon)</code></summary>
 App for real-time, AI-personalised venue & experience recommendations.
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0d1117,0d1117" />
+<!-- Divisor “pena” -->
+<p align="center">
+  <svg width="260" height="18" viewBox="0 0 260 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 9Q60 0 130 9T260 9" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  </svg>
+</p>
 
-## ⚔️&nbsp;ARSENAL&nbsp;OF&nbsp;SHADOWS
+## ⚔️ ARSENAL OF SHADOWS
 ![TypeScript](https://img.shields.io/badge/TypeScript-4c3573?style=flat&logo=typescript&logoColor=ffffff)
 ![Next.js](https://img.shields.io/badge/Next.js-31264d?style=flat&logo=next.js&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/Node.js-493969?style=flat&logo=node.js&logoColor=ffffff)
@@ -79,7 +65,8 @@ App for real-time, AI-personalised venue & experience recommendations.
 | Metric | Value |
 | :----- | :---- |
 | Ventures | 6 active / upcoming |
-| Revenue Growth | 2&nbsp;500&nbsp;% YoY |
+| Revenue Growth | 2 500 % YoY |
+| Ravens Visited | 5 |
 | Regions | BR • US • EU • CH |
 
 <blockquote align="center"><i>Great products solve pain so clearly that code is just the multiplier.</i></blockquote>
