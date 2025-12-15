@@ -1,50 +1,47 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=600&color=A259FF&center=true&vCenter=true&width=620&height=35&lines=FELIPE+PRESETI;Founder+%7C+Preseti+Group" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=600&color=A259FF&center=true&vCenter=true&width=620&height=35&lines=FELIPE+PRESETI;Founder+%7C+AENOR" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0d1117,3c216f,0d1117" />
 
 <p align="center">
-  <a href="https://preseti.com"><img src="https://img.shields.io/badge/preseti.com-1e1e1e?style=for-the-badge"></a>&nbsp;
+  <a href="https://aenor.com.br"><img src="https://img.shields.io/badge/aenor.com.br-1e1e1e?style=for-the-badge"></a>&nbsp;
   <a href="https://linkedin.com/in/felipepreseti"><img src="https://img.shields.io/badge/linkedin-3b2f5e?style=for-the-badge&logo=linkedin&logoColor=ffffff"></a>&nbsp;
-  <a href="mailto:felipe@preseti.com"><img src="https://img.shields.io/badge/email-1e1e1e?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
+  <a href="mailto:contato@aenor.com.br"><img src="https://img.shields.io/badge/email-1e1e1e?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0d1117,0d1117" />
 
 ## VENTURES
 <details>
-<summary><code>Preseti Group │ Holding & Governance</code></summary>
-Drives strategy, capital allocation and cross-venture synergy.  
-https://preseti.com
+<summary><code>AENOR │ Holding & Governance</code></summary>
+Grupo de empresas de tecnologia inovadoras. Visão estratégica e instinto para o sucesso.  
+https://aenor.com.br
 </details>
 <details>
-<summary><code>Howhow │ Influencer-Marketing</code></summary>
-AI platform linking tech brands to creators and tracking ROI.  
+<summary><code>Howhow │ Influencer Marketing</code></summary>
+Plataforma de IA conectando marcas de tecnologia a criadores e rastreando ROI.  
 https://howhow.com.br
 </details>
 <details>
 <summary><code>Lumeg │ Solar Subscriptions</code></summary>
-Renewable power plus AI optimisation to slash energy costs.  
+Energia renovável com otimização por IA para reduzir custos de energia.  
 https://lumeg.com.br
 </details>
 <details>
-<summary><code>Suprema.gg │ Esports Hub</code></summary>
-Complete ecosystem for leagues, matchmaking and item marketplace.  
+<summary><code>Suprema │ Esports Hub</code></summary>
+Ecossistema completo para ligas, matchmaking e marketplace de itens.  
 https://suprema.gg
 </details>
 <details>
 <summary><code>Nexnex │ Digital Solutions</code></summary>
-SaaS automating sites, paid traffic & design via multi-AI stack.  
+SaaS automatizando sites, tráfego pago e design via multi-stack de IA.  
 https://nexnex.com.br
 </details>
 <details>
-<summary><code>OpenCase │ Refurb-Tech (soon)</code></summary>
-AI inspection, repair and dynamic pricing of RMA tech with flash discounts.
-</details>
-<details>
-<summary><code>Project Mirage │ Venue Discovery (soon)</code></summary>
-App for real-time, AI-personalised venue & experience recommendations.
+<summary><code>Borarolê │ Venue Discovery</code></summary>
+App para recomendações de locais e experiências personalizadas em tempo real com IA.  
+https://borarole.com
 </details>
 
 <p align="center">
@@ -92,8 +89,11 @@ App for real-time, AI-personalised venue & experience recommendations.
 ## SNAPSHOT
 | Metric | Value |
 | :----- | :---- |
-| Ventures | 6 active / upcoming |
-| Revenue Growth | 2 500 % YoY |
+| Ventures | 5 active |
+| Controladas | 5+ |
+| Usuários | 2.5M+ |
+| Energia | 12GW |
+| Valuation | R$ 85M |
 | Regions | BR • US • EU • CH |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0d1117,0d1117" />
@@ -105,8 +105,9 @@ App for real-time, AI-personalised venue & experience recommendations.
 <blockquote align="center"><i>Great products solve pain so clearly that code is just the multiplier.</i></blockquote>
 
 <p align="center">
-  <strong>LET’S BUILD SOMETHING BOLD</strong><br>
-  <a href="mailto:felipe@preseti.com">felipe@preseti.com</a>
+  <strong>LET'S BUILD SOMETHING BOLD</strong><br>
+  <a href="mailto:contato@aenor.com.br">contato@aenor.com.br</a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0d1117,3c216f,0d1117&section=footer" />
+
