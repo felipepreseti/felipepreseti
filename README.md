@@ -39,7 +39,7 @@ SaaS automatizando sites, tráfego pago e design via multi-stack de IA.
 https://nexnex.com.br
 </details>
 <details>
-<summary><code>Borarolê │ Venue Discovery</code></summary>
+<summary><code>Bora Rolê │ Venue Discovery</code></summary>
 App para recomendações de locais e experiências personalizadas em tempo real com IA.  
 https://borarole.com
 </details>
