@@ -1,103 +1,72 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0d1117,3c216f,0d1117&section=header&text=Felipe%20Preseti&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Code%20%7C%20Product%20%7C%20Design&descAlignY=58" />
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=600&color=A259FF&center=true&vCenter=true&width=620&height=35&lines=FELIPE+PRESETI;Founder+%26+Builder;Turning+ideas+into+products+at+scale" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=600&color=A259FF&center=true&vCenter=true&width=700&height=34&lines=Building+digital+products;Clean+interfaces%2C+fast+execution;Always+learning%2C+always+shipping" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0d1117,3c216f,0d1117" />
-
 <p align="center">
-  <a href="https://aenor.com.br"><img src="https://img.shields.io/badge/aenor.com.br-1e1e1e?style=for-the-badge"></a>&nbsp;
-  <a href="https://linkedin.com/in/felipepreseti"><img src="https://img.shields.io/badge/linkedin-3b2f5e?style=for-the-badge&logo=linkedin&logoColor=ffffff"></a>&nbsp;
-  <a href="mailto:contato@aenor.com.br"><img src="https://img.shields.io/badge/email-1e1e1e?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
-</p>
-
----
-
-### Sobre mim
-
-Empreendedor e builder apaixonado por tecnologia. Fundador e CEO da **AENOR**, um grupo de empresas focadas em criar produtos digitais que resolvem problemas reais. Minha rotina é transformar ideias em código, estratégia em execução e problemas em oportunidades.
-
-Atuo na interseção entre **produto, engenharia e negócios** — construindo do zero ao scale com times enxutos e muita velocidade.
-
----
-
-### Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Web & UI**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-4c3573?style=flat&logo=typescript&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-493969?style=flat&logo=node.js&logoColor=fff)
-![React](https://img.shields.io/badge/React-4c3573?style=flat&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-31264d?style=flat&logo=next.js&logoColor=fff)
-![Tailwind](https://img.shields.io/badge/Tailwind-31264d?style=flat&logo=tailwindcss&logoColor=fff)
-
-**Mobile**
-
-![Expo](https://img.shields.io/badge/Expo-493969?style=flat&logo=expo&logoColor=fff)
-![Flutter](https://img.shields.io/badge/Flutter-4c3573?style=flat&logo=flutter&logoColor=fff)
-![Dart](https://img.shields.io/badge/Dart-31264d?style=flat&logo=dart&logoColor=fff)
-
-</td>
-<td valign="top" width="50%">
-
-**Data & APIs**
-
-![GraphQL](https://img.shields.io/badge/GraphQL-31264d?style=flat&logo=graphql&logoColor=fff)
-![tRPC](https://img.shields.io/badge/tRPC-493969?style=flat&logo=trpc&logoColor=fff)
-![Prisma](https://img.shields.io/badge/Prisma-4c3573?style=flat&logo=prisma&logoColor=fff)
-![Zod](https://img.shields.io/badge/Zod-31264d?style=flat&logo=zod&logoColor=fff)
-![Supabase](https://img.shields.io/badge/Supabase-493969?style=flat&logo=supabase&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4c3573?style=flat&logo=postgresql&logoColor=fff)
-
-**Cloud & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-4c3573?style=flat&logo=docker&logoColor=fff)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-31264d?style=flat&logo=githubactions&logoColor=fff)
-![Turbo](https://img.shields.io/badge/Turbo-493969?style=flat&logo=turbo&logoColor=fff)
-![pnpm](https://img.shields.io/badge/pnpm-4c3573?style=flat&logo=pnpm&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Vercel-31264d?style=flat&logo=vercel&logoColor=fff)
-
-</td>
-</tr>
-</table>
-
-**Testing & Quality**
-
-![Jest](https://img.shields.io/badge/Jest-4c3573?style=flat&logo=jest&logoColor=fff)
-![Cypress](https://img.shields.io/badge/Cypress-31264d?style=flat&logo=cypress&logoColor=fff)
-![Storybook](https://img.shields.io/badge/Storybook-493969?style=flat&logo=storybook&logoColor=fff)
-
----
-
-### Números
-
-| | |
-| :--- | :--- |
-| **Ventures ativas** | 5+ |
-| **Usuários impactados** | 2.5M+ |
-| **Presença** | BR · US · EU · CH |
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipepreseti&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A259FF&icon_color=A259FF&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=felipepreseti&theme=midnight-purple&hide_border=true&background=0D1117&ring=A259FF&fire=A259FF&currStreakLabel=A259FF" height="165" />
-</p>
-
----
-
-<p align="center">
+  <a href="https://github.com/felipepreseti"><img src="https://img.shields.io/badge/GitHub-1e1e1e?style=for-the-badge&logo=github&logoColor=ffffff"></a>&nbsp;
+  <a href="https://linkedin.com/in/felipepreseti"><img src="https://img.shields.io/badge/LinkedIn-3b2f5e?style=for-the-badge&logo=linkedin&logoColor=ffffff"></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=felipepreseti&label=PROFILE+VIEWS&color=4c3573&style=for-the-badge" alt="visitor badge"/>
 </p>
 
-<blockquote align="center"><i>"Great products solve pain so clearly that code is just the multiplier."</i></blockquote>
-
 <p align="center">
-  <strong>LET'S BUILD SOMETHING BOLD</strong><br>
-  <a href="mailto:contato@aenor.com.br">contato@aenor.com.br</a>
+  <img src="https://img.shields.io/badge/focus-products%20%7C%20ai%20%7C%20ux-31264d?style=flat-square" />
+  <img src="https://img.shields.io/badge/mindset-ship%20fast%2C%20refine%20faster-4c3573?style=flat-square" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0d1117,3c216f,0d1117&section=footer" />
+---
+
+## About
+
+I like building digital experiences with attention to clarity, speed and visual quality.
+My focus is turning ideas into products that feel simple on the surface and solid underneath.
+
+```ts
+const felipe = {
+  interests: ["product", "frontend", "automation", "ai-first tools"],
+  mainStack: ["TypeScript", "React", "Next.js", "Node.js"],
+  style: "clean, fast and user-centered",
+};
+```
+
+---
+
+## Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,flutter,docker,postgres,prisma,vercel,githubactions&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-4c3573?style=flat&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/React-31264d?style=flat&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/Next.js-4c3573?style=flat&logo=next.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Node.js-31264d?style=flat&logo=node.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4c3573?style=flat&logo=postgresql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Docker-31264d?style=flat&logo=docker&logoColor=fff" />
+</p>
+
+---
+
+## What I Care About
+
+- polished interfaces
+- products with real purpose
+- systems that stay simple as they grow
+- fast iteration with good taste
+
+---
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipepreseti&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A259FF&icon_color=A259FF&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepreseti&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A259FF&text_color=c9d1d9" height="165" />
+</p>
+
+<p align="center">
+  <i>"Great products feel obvious only after a lot of craft."</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0d1117,3c216f,0d1117&section=footer" />
