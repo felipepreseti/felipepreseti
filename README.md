@@ -1,72 +1,118 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0d1117,3c216f,0d1117&section=header&text=Felipe%20Preseti&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Code%20%7C%20Product%20%7C%20Design&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,30:1a0533,60:3c216f,100:A259FF&section=header&text=Felipe%20Preseti&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=35&desc=builder%20%E2%80%A2%20product%20%E2%80%A2%20design&descAlignY=55&descSize=18" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=600&color=A259FF&center=true&vCenter=true&width=700&height=34&lines=Building+digital+products;Clean+interfaces%2C+fast+execution;Always+learning%2C+always+shipping" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=A259FF&center=true&vCenter=true&random=false&width=600&height=45&lines=%F0%9F%9A%80+shipping+products+that+matter;%F0%9F%8E%A8+obsessed+with+clean+interfaces;%E2%9A%A1+fast+execution%2C+good+taste;%F0%9F%A7%A0+ai-first+mindset" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/felipepreseti"><img src="https://img.shields.io/badge/GitHub-1e1e1e?style=for-the-badge&logo=github&logoColor=ffffff"></a>&nbsp;
-  <a href="https://linkedin.com/in/felipepreseti"><img src="https://img.shields.io/badge/LinkedIn-3b2f5e?style=for-the-badge&logo=linkedin&logoColor=ffffff"></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=felipepreseti&label=PROFILE+VIEWS&color=4c3573&style=for-the-badge" alt="visitor badge"/>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/focus-products%20%7C%20ai%20%7C%20ux-31264d?style=flat-square" />
-  <img src="https://img.shields.io/badge/mindset-ship%20fast%2C%20refine%20faster-4c3573?style=flat-square" />
-</p>
+<div align="center">
+  <a href="https://github.com/felipepreseti">
+    <img src="https://img.shields.io/badge/-%40felipepreseti-0d1117?style=for-the-badge&logo=github&logoColor=A259FF" />
+  </a>
+  <a href="https://linkedin.com/in/felipepreseti">
+    <img src="https://img.shields.io/badge/-Felipe%20Preseti-0d1117?style=for-the-badge&logo=linkedin&logoColor=A259FF" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=felipepreseti&label=VIEWS&color=A259FF&style=for-the-badge" />
+</div>
 
----
+<br>
 
-## About
+<div align="center">
+  <img src="https://img.shields.io/badge/focus-product%20%C2%B7%20ai%20%C2%B7%20ux-A259FF?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/ship%20fast-refine%20faster-A259FF?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/stack-typescript%20%C2%B7%20react%20%C2%B7%20node-A259FF?style=flat-square&labelColor=0d1117" />
+</div>
 
-I like building digital experiences with attention to clarity, speed and visual quality.
-My focus is turning ideas into products that feel simple on the surface and solid underneath.
+<br><br>
+
+<!-- ═══════════════════════════════════ ABOUT ═══════════════════════════════════ -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+
+<br>
 
 ```ts
 const felipe = {
-  interests: ["product", "frontend", "automation", "ai-first tools"],
-  mainStack: ["TypeScript", "React", "Next.js", "Node.js"],
-  style: "clean, fast and user-centered",
+  code     : ["TypeScript", "JavaScript", "Dart", "Python"],
+  tools    : ["React", "Next.js", "Node.js", "Flutter", "Docker"],
+  design   : ["Figma", "Tailwind", "Framer Motion"],
+  cloud    : ["Vercel", "Supabase", "PostgreSQL", "GitHub Actions"],
+  mindset  : "build fast, ship clean, iterate always",
 };
 ```
 
----
+<br>
 
-## Toolbox
+<!-- ═══════════════════════════════════ STACK ═══════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,flutter,docker,postgres,prisma,vercel,githubactions&theme=dark" />
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-4c3573?style=flat&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/React-31264d?style=flat&logo=react&logoColor=61dafb" />
-  <img src="https://img.shields.io/badge/Next.js-4c3573?style=flat&logo=next.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Node.js-31264d?style=flat&logo=node.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4c3573?style=flat&logo=postgresql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Docker-31264d?style=flat&logo=docker&logoColor=fff" />
-</p>
+<h2 align="center">⚙️ STACK</h2>
 
----
+<br>
 
-## What I Care About
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind&theme=dark" /><br><br>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,docker,postgres,supabase&theme=dark" /><br><br>
+  <img src="https://skillicons.dev/icons?i=prisma,graphql,vercel,github,figma,vscode&theme=dark" />
+</div>
 
-- polished interfaces
-- products with real purpose
-- systems that stay simple as they grow
-- fast iteration with good taste
+<br>
 
----
+<!-- ═══════════════════════════════════ STATS ═══════════════════════════════════ -->
 
-## GitHub
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipepreseti&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A259FF&icon_color=A259FF&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepreseti&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A259FF&text_color=c9d1d9" height="165" />
-</p>
+<h2 align="center">📊 STATS</h2>
 
-<p align="center">
-  <i>"Great products feel obvious only after a lot of craft."</i>
-</p>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0d1117,3c216f,0d1117&section=footer" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipepreseti&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A259FF&icon_color=A259FF&text_color=c9d1d9&ring_color=A259FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepreseti&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A259FF&text_color=c9d1d9&langs_count=8" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=felipepreseti&theme=midnight-purple&hide_border=true&background=0D1117&ring=A259FF&fire=A259FF&currStreakLabel=A259FF&sideLabels=c9d1d9&dates=555555" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=felipepreseti&bg_color=0d1117&color=A259FF&line=A259FF&point=ffffff&area=true&area_color=3c216f&hide_border=true" />
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════ TROPHIES ═══════════════════════════════════ -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=felipepreseti&theme=discord&no-frame=true&no-bg=true&column=-1&margin-w=8" />
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════ FOOTER ═══════════════════════════════════ -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple&quote=Great%20products%20feel%20obvious%20only%20after%20a%20lot%20of%20craft.&author=felipe%20preseti" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LET'S%20BUILD%20SOMETHING%20BOLD-A259FF?style=for-the-badge&labelColor=0d1117" />
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:A259FF,30:3c216f,60:1a0533,100:0d1117&section=footer" />
