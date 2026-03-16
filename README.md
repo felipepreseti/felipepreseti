@@ -12,7 +12,7 @@
 
 <br><br>
 
-<h3 align="center">⚡ Stack</h3>
+<h3 align="center">🛠️ Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,flutter,docker,postgres,supabase,prisma,figma,vercel&theme=dark" />
@@ -20,7 +20,7 @@
 
 <br><br>
 
-<h3 align="center">📊 GitHub</h3>
+<h3 align="center">📈 GitHub</h3>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=felipepreseti&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A259FF&icon_color=A259FF&text_color=c9d1d9&ring_color=A259FF" />
