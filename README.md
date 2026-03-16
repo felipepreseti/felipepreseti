@@ -10,32 +10,24 @@
   <img src="https://komarev.com/ghpvc/?username=felipepreseti&label=views&color=A259FF&style=for-the-badge" />
 </p>
 
----
+<br>
 
-```ts
-const felipe = {
-  code    : ["TypeScript", "JavaScript", "Dart", "Python"],
-  tools   : ["React", "Next.js", "Node.js", "Flutter", "Docker"],
-  design  : ["Figma", "Tailwind", "Framer Motion"],
-  cloud   : ["Vercel", "Supabase", "PostgreSQL"],
-  mindset : "build fast, ship clean, iterate always",
-};
-```
-
----
+<h3 align="center">⚡ Stack</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,flutter,docker,postgres,supabase,prisma,figma,vercel&theme=dark" />
 </div>
 
----
+<br>
+
+<h3 align="center">📊 GitHub</h3>
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=felipepreseti&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A259FF&icon_color=A259FF&text_color=c9d1d9" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepreseti&layout=compact&hide_border=true&bg_color=0d1117&title_color=A259FF&text_color=c9d1d9&langs_count=6" />
 </div>
 
----
+<br>
 
 <p align="center">
   <i>"Great products feel obvious only after a lot of craft."</i>
