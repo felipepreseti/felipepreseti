@@ -1,99 +1,148 @@
-<h1 align="center">FELIPE&nbsp;&nbsp;PRESETI</h1>
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                    FELIPE PRESETI :: README                      -->
+<!--                    AENOR HOLDING // SP // 2025                   -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:000000&height=220&section=header&text=FELIPE%20PRESETI&fontColor=ffffff&fontSize=64&fontAlignY=42&desc=builder%20//%20operator%20//%20founder&descSize=16&descAlignY=68&animation=fadeIn" />
+
+</div>
 
 <p align="center">
-  <code>BUILDER&nbsp;·&nbsp;OPERATOR&nbsp;·&nbsp;FOUNDER</code>
+  <code>SÃO&nbsp;PAULO&nbsp;🇧🇷</code>&nbsp;&nbsp;<code>::</code>&nbsp;&nbsp;<code>EST.&nbsp;2025</code>&nbsp;&nbsp;<code>::</code>&nbsp;&nbsp;<code>STATUS&nbsp;//&nbsp;SHIPPING</code>
 </p>
 
 <p align="center">
-  building <a href="https://aenor.com.br"><b>AENOR</b></a> — a holding designed to last decades.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=11&pause=2200&color=FFFFFF&center=true&vCenter=true&width=560&height=20&lines=CRAFT+OVER+HYPE;COMPOUND+OVER+QUARTERS;LEGACY+OVER+EXIT;ALWAYS+SHIPPING+%E2%80%94+ALWAYS+LEARNING" alt="" />
+  architecting <a href="https://aenor.com.br"><b>AENOR</b></a> &nbsp;<code>::</code>&nbsp; a holding engineered to outlive its founders.
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/felipepreseti"><img src="https://img.shields.io/badge/GITHUB-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0a0a0a" alt="GitHub" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&pause=1800&color=FFFFFF&center=true&vCenter=true&width=620&height=24&lines=%2F%2F+CRAFT+OVER+HYPE;%2F%2F+COMPOUND+OVER+QUARTERS;%2F%2F+LEGACY+OVER+EXIT;%2F%2F+SIGNAL+OVER+NOISE;%2F%2F+CONVICTION+OVER+CONSENSUS" alt="" />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://aenor.com.br"><img src="https://img.shields.io/badge/AENOR.COM.BR-000000?style=for-the-badge&labelColor=000000&color=151515" alt="aenor" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/felipepreseti"><img src="https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0a0a0a" alt="LinkedIn" /></a>
+  <a href="https://github.com/felipepreseti"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000&color=151515" alt="github" /></a>
   &nbsp;
-  <a href="https://aenor.com.br"><img src="https://img.shields.io/badge/AENOR.COM.BR-0a0a0a?style=for-the-badge&labelColor=0a0a0a" alt="Aenor" /></a>
+  <a href="https://linkedin.com/in/felipepreseti"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000&color=151515" alt="linkedin" /></a>
 </p>
 
 <br>
 
----
-
-### `I` &nbsp;·&nbsp; WHO
-
-Fundador, operador e engenheiro.
-Construo empresas como quem constrói catedrais — sem pressa, com obsessão por detalhe, pensando em quem virá depois.
-
-A **AENOR** é a tese: uma holding que abriga negócios, ideias e pessoas com horizonte de décadas — não trimestres.
-O resto do meu tempo é dedicado a transformar capital, código e convicção em coisas que duram.
-
-<br>
-
----
-
-### `II` &nbsp;·&nbsp; NOW
-
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ░░  01  ░░  WHOIS                                          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
-focus      →  AENOR — arquitetura, produto e narrativa
-building   →  produtos digitais com vantagem composta
-operating  →  times pequenos, decisões rápidas, padrão alto
-studying   →  capital allocation · distribuição · IA aplicada
-based in   →  São Paulo, Brasil
+
+```yaml
+identity     ::  Felipe Preseti
+origin       ::  São Paulo, Brasil 🇧🇷
+discipline   ::  founder // operator // engineer
+mission      ::  building things designed to outlive me
+horizon      ::  decades, not quarters
+fuel         ::  obsession for detail. contempt for mediocrity.
 ```
 
 <br>
 
----
-
-### `III` &nbsp;·&nbsp; STACK
-
-```
-frontend   →  TypeScript · React · Next.js · Tailwind
-mobile     →  Flutter
-backend    →  Node.js · PostgreSQL · Prisma · Supabase
-infra      →  Docker · Vercel · GitHub Actions
-design     →  Figma
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ░░  02  ░░  CURRENT.OPS                                    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-<br>
+```bash
+$ ./preseti --status
 
----
-
-### `IV` &nbsp;·&nbsp; OPERATING SYSTEM
-
-```
-01  →  clareza antes de velocidade
-02  →  detalhe é estratégia, não estética
-03  →  tempo é o único ativo não renovável
-04  →  decisões reversíveis: rápido. irreversíveis: devagar
-05  →  o melhor moat é convicção sustentada por anos
+> primary    AENOR // architecture, product, narrative
+> shipping   digital products with compounding edge
+> operating  small teams // fast decisions // high standard
+> studying   capital allocation // distribution // applied AI
+> location   São Paulo, Brasil 🇧🇷
+> mode       heads down
 ```
 
 <br>
 
----
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ░░  03  ░░  ARSENAL                                        ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-### `V` &nbsp;·&nbsp; MANIFESTO
+```typescript
+const stack = {
+  frontend : ['TypeScript', 'React', 'Next.js', 'Tailwind'],
+  mobile   : ['Flutter'],
+  backend  : ['Node.js', 'PostgreSQL', 'Prisma', 'Supabase'],
+  infra    : ['Docker', 'Vercel', 'GitHub Actions'],
+  design   : ['Figma'],
+} as const;
+```
 
-> Não construímos empresas para um exit.
-> Construímos para durar décadas.
+<br>
+
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ░░  04  ░░  AXIOMS                                         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+```
+[ 01 ]   clarity precedes velocity.
+[ 02 ]   detail is strategy, not aesthetic.
+[ 03 ]   time is the only non-renewable asset.
+[ 04 ]   reversible decisions: fast.  irreversible: slow.
+[ 05 ]   the best moat is conviction held for years.
+[ 06 ]   ship daily. compound forever.
+```
+
+<br>
+
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ░░  05  ░░  MANIFESTO                                      ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+> we don't build companies for an exit.
+> we build them to last decades.
 >
-> Investimos capital, tempo e instinto onde a maioria não enxerga ainda.
-> Construímos com obsessão por detalhes e desprezo pela mediocridade.
+> we invest capital, time and instinct
+> where most can't see yet.
 >
-> Se for pra fazer, é pra durar.
+> we build with obsession for detail
+> and contempt for mediocrity.
+>
+> if it's worth building, it's worth building to last.
 
 <br>
-
----
 
 <p align="center">
-  <sub>●&nbsp;&nbsp;EST&nbsp;2025&nbsp;&nbsp;·&nbsp;&nbsp;SÃO&nbsp;PAULO&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://aenor.com.br">AENOR.COM.BR</a></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=80&section=footer" />
+</p>
+
+<p align="center">
+  <code>●</code>&nbsp;&nbsp;<code>EST.&nbsp;2025</code>&nbsp;&nbsp;<code>//</code>&nbsp;&nbsp;<code>MADE&nbsp;IN&nbsp;🇧🇷</code>&nbsp;&nbsp;<code>//</code>&nbsp;&nbsp;<a href="https://aenor.com.br"><code>AENOR.COM.BR</code></a>
+</p>
+
+<p align="center">
+  <sub><i>built quietly. built to last.</i></sub>
 </p>
