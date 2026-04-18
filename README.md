@@ -26,38 +26,69 @@
 
 ---
 
-### `I` &nbsp;·&nbsp; STACK
+### `I` &nbsp;·&nbsp; WHO
+
+Fundador, operador e engenheiro.
+Construo empresas como quem constrói catedrais — sem pressa, com obsessão por detalhe, pensando em quem virá depois.
+
+A **AENOR** é a tese: uma holding que abriga negócios, ideias e pessoas com horizonte de décadas — não trimestres.
+O resto do meu tempo é dedicado a transformar capital, código e convicção em coisas que duram.
+
+<br>
+
+---
+
+### `II` &nbsp;·&nbsp; NOW
 
 ```
-frontend  →  TypeScript · React · Next.js · Tailwind
-mobile    →  Flutter
-backend   →  Node.js · PostgreSQL · Prisma · Supabase
-infra     →  Docker · Vercel · GitHub Actions
-design    →  Figma
+focus      →  AENOR — arquitetura, produto e narrativa
+building   →  produtos digitais com vantagem composta
+operating  →  times pequenos, decisões rápidas, padrão alto
+studying   →  capital allocation · distribuição · IA aplicada
+based in   →  São Paulo, Brasil
 ```
 
 <br>
 
 ---
 
-### `II` &nbsp;·&nbsp; GITHUB
+### `III` &nbsp;·&nbsp; STACK
 
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=felipepreseti&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ffffff&icon_color=ffffff&text_color=a8a8a8&ring_color=ffffff" alt="stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepreseti&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=a8a8a8&langs_count=8" alt="languages" />
-</p>
+```
+frontend   →  TypeScript · React · Next.js · Tailwind
+mobile     →  Flutter
+backend    →  Node.js · PostgreSQL · Prisma · Supabase
+infra      →  Docker · Vercel · GitHub Actions
+design     →  Figma
+```
 
 <br>
 
 ---
 
-### `III` &nbsp;·&nbsp; MANIFESTO
+### `IV` &nbsp;·&nbsp; OPERATING SYSTEM
+
+```
+01  →  clareza antes de velocidade
+02  →  detalhe é estratégia, não estética
+03  →  tempo é o único ativo não renovável
+04  →  decisões reversíveis: rápido. irreversíveis: devagar
+05  →  o melhor moat é convicção sustentada por anos
+```
+
+<br>
+
+---
+
+### `V` &nbsp;·&nbsp; MANIFESTO
 
 > Não construímos empresas para um exit.
 > Construímos para durar décadas.
 >
 > Investimos capital, tempo e instinto onde a maioria não enxerga ainda.
 > Construímos com obsessão por detalhes e desprezo pela mediocridade.
+>
+> Se for pra fazer, é pra durar.
 
 <br>
 
