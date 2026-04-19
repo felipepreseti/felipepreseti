@@ -75,7 +75,7 @@
     font-family="ui-monospace, 'SF Mono', Menlo, monospace"
     font-size="12" font-weight="500" letter-spacing="8"
     fill="#a8a8a8" opacity="0">
-    BUILDER &#183; OPERATOR &#183; FOUNDER
+    FOUNDER &#183; AENOR HOLDING
     <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="1s" fill="freeze"/>
   </text>
 

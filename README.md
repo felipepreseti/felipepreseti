@@ -1,25 +1,20 @@
 <!-- ════════════════════════════════════════════════════════════════ -->
 <!--                  F E L I P E   P R E S E T I                     -->
-<!--                builder · operator · founder                      -->
-<!--                AENOR HOLDING · SP · MMXXV                        -->
+<!--                founder · aenor holding · sp                      -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="./assets/banner.svg?v=3" alt="Felipe Preseti" />
+<img src="./assets/banner.svg?v=4" alt="Felipe Preseti" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2400&pause=900&color=BCBCBC&center=true&vCenter=true&width=640&height=26&lines=%E2%97%86+now+building+AENOR;%E2%97%86+now+reading+poor+charlie%27s+almanack;%E2%97%86+now+studying+capital+allocation;%E2%97%86+now+thinking+in+decades" alt="now" />
-
-<br>
-
-<sub><i>"decades reveal what quarters conceal."</i></sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2400&pause=900&color=BCBCBC&center=true&vCenter=true&width=640&height=26&lines=building+AENOR;reading+poor+charlie%27s+almanack;lifting+at+the+gym;based+in+s%C3%A3o+paulo" alt="now" />
 
 <br>
 <br>
 
-<code>SÃO&nbsp;PAULO&nbsp;🇧🇷</code> &nbsp;·&nbsp; <code>MMXXV</code> &nbsp;·&nbsp; architecting <a href="https://aenor.com.br"><b>AENOR</b></a>
+<code>SÃO&nbsp;PAULO&nbsp;🇧🇷</code> &nbsp;·&nbsp; founder of <a href="https://aenor.com.br"><b>AENOR</b></a>
 
 <br>
 <br>
@@ -56,35 +51,22 @@
 <br>
 <br>
 
-<img src="./assets/manifesto.svg?v=3" alt="manifesto" />
+<img src="./assets/manifesto.svg?v=4" alt="now" />
 
 <br>
 <br>
 <br>
 
-<a href="https://aenor.com.br"><img src="./assets/monogram-fp.svg?v=3" width="56" alt="FP" /></a>
+<a href="https://aenor.com.br"><img src="./assets/monogram-fp.svg?v=4" width="56" alt="FP" /></a>
 
 <br>
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&pause=99999&color=FFFFFF&center=true&vCenter=true&width=400&height=42&lines=festina+lente." alt="festina lente" />
-
-<br>
-
-<sub><code>-23.5505°&nbsp;S</code> &nbsp;·&nbsp; <code>-46.6333°&nbsp;W</code></sub>
-
-<br>
-
-<sub>são paulo · brasil 🇧🇷 &nbsp;·&nbsp; MMXXV &nbsp;·&nbsp; <a href="https://aenor.com.br">aenor.com.br</a></sub>
+<sub>são paulo · brasil 🇧🇷 &nbsp;·&nbsp; <a href="https://aenor.com.br">aenor.com.br</a></sub>
 
 <br>
 <br>
 
-<sub><i>built quietly. built to last.</i></sub>
-
-<br>
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=felipepreseti&color=151515&style=flat-square&label=witnessed" alt="witnessed" />
+<img src="https://komarev.com/ghpvc/?username=felipepreseti&color=151515&style=flat-square&label=views" alt="views" />
 
 </div>
