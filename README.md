@@ -1,43 +1,12 @@
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--                                                                  -->
 <!--                  F E L I P E   P R E S E T I                     -->
 <!--                builder · operator · founder                      -->
 <!--                AENOR HOLDING · SP · MMXXV                        -->
-<!--                                                                  -->
-<!--  ─────────────────  upgrades opcionais  ─────────────────        -->
-<!--                                                                  -->
-<!--  esse readme funciona out-of-the-box. pra deixar 100% custom:    -->
-<!--                                                                  -->
-<!--   A) snake animation (cobra que come contributions):             -->
-<!--      1. copiar `assets/snake-workflow.yml` pra                   -->
-<!--         `.github/workflows/snake.yml` no repo                    -->
-<!--      2. aba Actions > "generate snake animation" > Run workflow  -->
-<!--         (cobra fica online em ~30s, atualiza sozinha a cada 24h) -->
-<!--                                                                  -->
-<!--   B) banner SVG custom (substitui o capsule-render):             -->
-<!--      1. subir `assets/banner.svg` pro repo                       -->
-<!--      2. comentar a tag <img> com capsule-render                  -->
-<!--      3. descomentar a tag <img> com ./assets/banner.svg          -->
-<!--                                                                  -->
-<!--   C) manifesto SVG card (substitui o texto italic):              -->
-<!--      1. subir `assets/manifesto.svg` pro repo                    -->
-<!--      2. comentar o bloco de manifesto em texto                   -->
-<!--      3. descomentar a tag <img> com ./assets/manifesto.svg       -->
-<!--                                                                  -->
-<!--   D) monograma FP no footer (substitui o ◆ ◆ ◆):                 -->
-<!--      1. subir `assets/monogram-fp.svg` pro repo                  -->
-<!--      2. comentar o ornamento ◆ ◆ ◆                               -->
-<!--      3. descomentar a tag <img> com ./assets/monogram-fp.svg     -->
-<!--                                                                  -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- BANNER · padrão: capsule-render (funciona out-of-the-box) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:000000&height=200&text=FELIPE%20PRESETI&fontColor=ffffff&fontSize=58&fontAlignY=42&desc=builder%20·%20operator%20·%20founder&descSize=14&descAlignY=72&animation=fadeIn" alt="Felipe Preseti" />
-
-<!-- BANNER · upgrade B (após subir assets/banner.svg, comente o de cima e descomente este): -->
-<!-- <img src="./assets/banner.svg" alt="Felipe Preseti" /> -->
+<img src="./assets/banner.svg" alt="Felipe Preseti" />
 
 <br>
 
@@ -61,9 +30,11 @@
 <br>
 <br>
 
-<!-- SNAKE · descomente APÓS rodar o GitHub Action (upgrade A no topo): -->
-<!-- <img src="https://raw.githubusercontent.com/felipepreseti/felipepreseti/output/snake-dark.svg" alt="contributions" /> -->
-<!-- <br><br><br> -->
+<img src="https://raw.githubusercontent.com/felipepreseti/felipepreseti/output/snake-dark.svg" alt="contributions" />
+
+<br>
+<br>
+<br>
 
 <sub><code>◆</code></sub>
 
@@ -85,27 +56,13 @@
 <br>
 <br>
 
-<!-- MANIFESTO · padrão: texto inline (funciona out-of-the-box) -->
-<i>we don't build for an exit.</i><br>
-<i>we build to last decades.</i>
-
-<br>
-
-<i>if it's worth building,</i><br>
-<i>it's worth building to last.</i>
-
-<!-- MANIFESTO · upgrade C (após subir assets/manifesto.svg, comente o de cima e descomente este): -->
-<!-- <img src="./assets/manifesto.svg" alt="manifesto" /> -->
+<img src="./assets/manifesto.svg" alt="manifesto" />
 
 <br>
 <br>
 <br>
 
-<!-- ASSINATURA · padrão: ornamento ◆ ◆ ◆ -->
-<sub><code>◆&nbsp;&nbsp;◆&nbsp;&nbsp;◆</code></sub>
-
-<!-- ASSINATURA · upgrade D (após subir assets/monogram-fp.svg, comente o de cima e descomente este): -->
-<!-- <img src="./assets/monogram-fp.svg" width="44" alt="FP" /> -->
+<img src="./assets/monogram-fp.svg" width="44" alt="FP" />
 
 <br>
 <br>
