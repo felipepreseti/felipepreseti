@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" role="img" aria-label="Manifesto">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="1" stop-color="#0a0a0a"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="380" fill="url(#bg)"/>
+
+  <rect x="40" y="40" width="720" height="300" fill="none" stroke="#1a1a1a" stroke-width="1"/>
+
+  <g stroke="#3a3a3a" stroke-width="1" fill="none">
+    <path d="M 40,60 L 40,40 L 60,40"/>
+    <path d="M 740,40 L 760,40 L 760,60"/>
+    <path d="M 40,320 L 40,340 L 60,340"/>
+    <path d="M 740,340 L 760,340 L 760,320"/>
+  </g>
+
+  <text x="60" y="75" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="10" fill="#4a4a4a" letter-spacing="3">MANIFESTO · V</text>
+  <text x="740" y="75" text-anchor="end" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="10" fill="#4a4a4a" letter-spacing="3">FP · MMXXV</text>
+
+  <path d="M400,105 L406,111 L400,117 L394,111 Z" fill="#ffffff" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.3;0.8" dur="3s" repeatCount="indefinite"/>
+  </path>
+
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#ffffff" text-anchor="middle">
+    <text x="400" y="170" font-size="22" font-style="italic" font-weight="400">we don't build for an exit.</text>
+    <text x="400" y="200" font-size="22" font-style="italic" font-weight="400">we build to last decades.</text>
+    <text x="400" y="260" font-size="22" font-style="italic" font-weight="400">if it's worth building,</text>
+    <text x="400" y="290" font-size="22" font-style="italic" font-weight="400">it's worth building to last.</text>
+  </g>
+</svg>
