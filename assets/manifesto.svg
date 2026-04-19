@@ -29,11 +29,6 @@
     <path d="M 812,336 L 836,336 L 836,312"/>
   </g>
 
-  <g font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="9" fill="#5a5a5a" letter-spacing="3">
-    <text x="72" y="78">CURRENT &#183; MMXXV</text>
-    <text x="808" y="78" text-anchor="end">FP</text>
-  </g>
-
   <line x1="200" y1="100" x2="680" y2="100" stroke="url(#rule)" stroke-width="1"/>
 
   <g font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14">
@@ -55,14 +50,4 @@
   </g>
 
   <line x1="200" y1="282" x2="680" y2="282" stroke="url(#rule)" stroke-width="1"/>
-
-  <g font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="9" fill="#3a3a3a" letter-spacing="3" text-anchor="middle">
-    <text x="440" y="304">updated &#183; april 2026</text>
-  </g>
-
-  <g transform="translate(440, 56)">
-    <path d="M0,-4 L4,0 L0,4 L-4,0 Z" fill="#ffffff" opacity="0.7">
-      <animate attributeName="opacity" values="0.7;0.3;0.7" dur="3.6s" repeatCount="indefinite"/>
-    </path>
-  </g>
 </svg>

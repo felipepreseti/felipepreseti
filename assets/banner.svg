@@ -41,13 +41,6 @@
     <path d="M 1216,320 L 1240,320 L 1240,296"/>
   </g>
 
-  <g font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="9" fill="#5a5a5a" letter-spacing="3">
-    <text x="64" y="72">DOSSIER &#183; 001</text>
-    <text x="64" y="86" fill="#3a3a3a">FILE.OPEN</text>
-    <text x="1216" y="72" text-anchor="end">S&#195;O PAULO &#183; BRASIL</text>
-    <text x="1216" y="86" text-anchor="end" fill="#3a3a3a">MMXXV</text>
-  </g>
-
   <g transform="translate(640, 132)">
     <path d="M0,-9 L9,0 L0,9 L-9,0 Z" fill="url(#diamondGrad)" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.9s" fill="freeze"/>
@@ -79,9 +72,4 @@
     <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="1s" fill="freeze"/>
   </text>
 
-  <g font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="9" fill="#3a3a3a" letter-spacing="2" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="1.4s" fill="freeze"/>
-    <text x="64" y="306">AENOR.HOLDING</text>
-    <text x="1216" y="306" text-anchor="end">EST &#183; MMXXV</text>
-  </g>
 </svg>

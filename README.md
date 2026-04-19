@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.svg?v=4" alt="Felipe Preseti" />
+<img src="./assets/banner.svg?v=5" alt="Felipe Preseti" />
 
 <br>
 
@@ -51,6 +51,6 @@
 <br>
 <br>
 
-<img src="./assets/manifesto.svg?v=4" alt="now" />
+<img src="./assets/manifesto.svg?v=5" alt="now" />
 
 </div>
