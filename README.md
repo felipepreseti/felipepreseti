@@ -53,20 +53,4 @@
 
 <img src="./assets/manifesto.svg?v=4" alt="now" />
 
-<br>
-<br>
-<br>
-
-<a href="https://aenor.com.br"><img src="./assets/monogram-fp.svg?v=4" width="56" alt="FP" /></a>
-
-<br>
-<br>
-
-<sub>são paulo · brasil 🇧🇷 &nbsp;·&nbsp; <a href="https://aenor.com.br">aenor.com.br</a></sub>
-
-<br>
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=felipepreseti&color=151515&style=flat-square&label=views" alt="views" />
-
 </div>
