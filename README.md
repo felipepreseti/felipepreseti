@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&pause=2200&color=A8A8A8&center=true&vCenter=true&width=620&height=24&lines=now+building+AENOR;now+reading+poor+charlie%27s+almanack;now+studying+capital+allocation;now+thinking+in+decades" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2400&pause=900&color=BCBCBC&center=true&vCenter=true&width=640&height=26&lines=%E2%97%86+now+building+AENOR;%E2%97%86+now+reading+poor+charlie%27s+almanack;%E2%97%86+now+studying+capital+allocation;%E2%97%86+now+thinking+in+decades" alt="now" />
 
 <br>
 
@@ -62,7 +62,7 @@
 <br>
 <br>
 
-<img src="./assets/monogram-fp.svg" width="44" alt="FP" />
+<a href="https://aenor.com.br"><img src="./assets/monogram-fp.svg" width="56" alt="FP · Felipe Preseti · MMXXV" /></a>
 
 <br>
 <br>

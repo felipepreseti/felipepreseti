@@ -1,33 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" role="img" aria-label="Manifesto">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 460" role="img" aria-label="Manifesto">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#000000"/>
+      <stop offset="0" stop-color="#0a0a0a"/>
+      <stop offset="0.5" stop-color="#000000"/>
       <stop offset="1" stop-color="#0a0a0a"/>
     </linearGradient>
+
+    <radialGradient id="vignette" cx="0.5" cy="0.5" r="0.85">
+      <stop offset="0.55" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.85"/>
+    </radialGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="scanlines" patternUnits="userSpaceOnUse" width="2" height="3">
+      <rect width="2" height="3" fill="#000000"/>
+      <rect width="2" height="1" fill="#ffffff" opacity="0.012"/>
+    </pattern>
   </defs>
 
-  <rect width="800" height="380" fill="url(#bg)"/>
+  <rect width="880" height="460" fill="url(#bg)"/>
+  <rect width="880" height="460" fill="url(#scanlines)"/>
+  <rect width="880" height="460" fill="url(#vignette)"/>
 
-  <rect x="40" y="40" width="720" height="300" fill="none" stroke="#1a1a1a" stroke-width="1"/>
+  <rect x="44" y="44" width="792" height="372" fill="none" stroke="#1c1c1c" stroke-width="1"/>
+  <rect x="56" y="56" width="768" height="348" fill="none" stroke="#141414" stroke-width="1"/>
 
   <g stroke="#3a3a3a" stroke-width="1" fill="none">
-    <path d="M 40,60 L 40,40 L 60,40"/>
-    <path d="M 740,40 L 760,40 L 760,60"/>
-    <path d="M 40,320 L 40,340 L 60,340"/>
-    <path d="M 740,340 L 760,340 L 760,320"/>
+    <path d="M 44,68 L 44,44 L 68,44"/>
+    <path d="M 812,44 L 836,44 L 836,68"/>
+    <path d="M 44,392 L 44,416 L 68,416"/>
+    <path d="M 812,416 L 836,416 L 836,392"/>
   </g>
 
-  <text x="60" y="75" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="10" fill="#4a4a4a" letter-spacing="3">MANIFESTO Â· V</text>
-  <text x="740" y="75" text-anchor="end" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="10" fill="#4a4a4a" letter-spacing="3">FP Â· MMXXV</text>
+  <g font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="9" fill="#5a5a5a" letter-spacing="3">
+    <text x="72" y="78">MANIFESTO · V</text>
+    <text x="808" y="78" text-anchor="end">FP · MMXXV</text>
+  </g>
 
-  <path d="M400,105 L406,111 L400,117 L394,111 Z" fill="#ffffff" opacity="0.8">
-    <animate attributeName="opacity" values="0.8;0.3;0.8" dur="3s" repeatCount="indefinite"/>
-  </path>
+  <g font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="9" fill="#3a3a3a" letter-spacing="6" text-anchor="middle">
+    <text x="440" y="106">— ARTICLE I —</text>
+  </g>
+
+  <line x1="380" y1="118" x2="500" y2="118" stroke="url(#rule)" stroke-width="1"/>
 
   <g font-family="Georgia, 'Times New Roman', serif" fill="#ffffff" text-anchor="middle">
-    <text x="400" y="170" font-size="22" font-style="italic" font-weight="400">we don't build for an exit.</text>
-    <text x="400" y="200" font-size="22" font-style="italic" font-weight="400">we build to last decades.</text>
-    <text x="400" y="260" font-size="22" font-style="italic" font-weight="400">if it's worth building,</text>
-    <text x="400" y="290" font-size="22" font-style="italic" font-weight="400">it's worth building to last.</text>
+    <text x="440" y="172" font-size="24" font-style="italic" font-weight="400" letter-spacing="0.5">we don't build for an exit.</text>
+    <text x="440" y="206" font-size="24" font-style="italic" font-weight="400" letter-spacing="0.5">we build to last decades.</text>
+  </g>
+
+  <g transform="translate(440, 256)">
+    <line x1="-90" y1="0" x2="-14" y2="0" stroke="url(#rule)" stroke-width="1"/>
+    <line x1="14" y1="0" x2="90" y2="0" stroke="url(#rule)" stroke-width="1"/>
+    <path d="M0,-5 L5,0 L0,5 L-5,0 Z" fill="#ffffff" opacity="0.85">
+      <animate attributeName="opacity" values="0.85;0.35;0.85" dur="3.6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#ffffff" text-anchor="middle">
+    <text x="440" y="306" font-size="24" font-style="italic" font-weight="400" letter-spacing="0.5">if it's worth building,</text>
+    <text x="440" y="340" font-size="24" font-style="italic" font-weight="400" letter-spacing="0.5">it's worth building to last.</text>
+  </g>
+
+  <g font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="8" fill="#3a3a3a" letter-spacing="3" text-anchor="middle">
+    <text x="440" y="382">— signed · F.P. —</text>
   </g>
 </svg>
