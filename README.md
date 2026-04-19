@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Felipe Preseti" />
+<img src="./assets/banner.svg?v=3" alt="Felipe Preseti" />
 
 <br>
 
@@ -56,13 +56,13 @@
 <br>
 <br>
 
-<img src="./assets/manifesto.svg" alt="manifesto" />
+<img src="./assets/manifesto.svg?v=3" alt="manifesto" />
 
 <br>
 <br>
 <br>
 
-<a href="https://aenor.com.br"><img src="./assets/monogram-fp.svg" width="56" alt="FP · Felipe Preseti · MMXXV" /></a>
+<a href="https://aenor.com.br"><img src="./assets/monogram-fp.svg?v=3" width="56" alt="FP" /></a>
 
 <br>
 <br>
